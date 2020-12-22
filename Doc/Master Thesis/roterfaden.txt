@@ -1,0 +1,44 @@
+Introduction
+	* Motivation
+	* problem statement (which problem should be solved?)
+	* aim of the work
+	* methodological approach
+	* structure of the work
+
+Related Work
+	* Driving / Assistant Systems / Simulation / Race Games
+	* Positive Player Experience (Understand Player, Learning Curve, Challenge)
+	* Player Motivation (Psychology, Goal)
+	* Rivalry (Social, Sport)
+	* Level Design (Fun Race Tracks, Generated Content) 
+	* Game Balance (AI, Assistant Systems, Difficulty)
+	* Measure Performance (Race Lines, Motivation, Geneva, Heartbeat)
+	* Rating Systems (Elo Chess, Multiplayer Games)
+
+Study Design: 
+	* Player Type (Big Five) 
+	* Emotions Capture Methods (Geneva Emotions)
+	* Driving Skills (Acquisition of data)
+ 
+Software Architecture
+	* Architectural analysis (Requirements) 
+	* Architectural synthesis (Design)
+	* Architecture evaluation (How well the current design satisfies the requirements)
+
+Software Implementation
+	* Data models (Database)
+	* Game Design (Unity)
+	* Analysis methods
+
+Study Result
+	* Emotions
+	* Driver Skill
+	* Correlation
+
+Conclusion
+
+Future work
+
+Appendix: source code, data models, . . .
+
+Bibliography
